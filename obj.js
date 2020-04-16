@@ -1,5 +1,5 @@
 let cityfirst = {
-    name: 'Vinnitsa',
+    name: 'Vinnitsya',
     population: 370834,
     getName() {
         console.log(`City ${this.name}`);
